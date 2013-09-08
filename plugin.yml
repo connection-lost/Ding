@@ -1,0 +1,6 @@
+name: Ding
+main: me.crafter.mc.ding.Ding
+version: 1.0
+description: >
+             Ding!
+commands:

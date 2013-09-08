@@ -1,0 +1,6 @@
+name: DeathNotice
+main: me.crafter.me.deathnotice.deathnotice
+version: 1.0
+description: >
+             Send player a message contains his death location
+commands:
